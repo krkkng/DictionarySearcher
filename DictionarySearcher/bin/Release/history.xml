@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHistoryItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HistoryItem>
+    <History>abcde</History>
+    <Count>1</Count>
+  </HistoryItem>
+  <HistoryItem>
+    <History>efgh</History>
+    <Count>1</Count>
+  </HistoryItem>
+</ArrayOfHistoryItem>

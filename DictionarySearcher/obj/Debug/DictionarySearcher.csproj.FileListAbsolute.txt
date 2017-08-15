@@ -1,0 +1,33 @@
+c:\users\建吾\documents\visual studio 2017\Projects\DictionarySearcher\DictionarySearcher\obj\Debug\DictionarySearcher.csprojResolveAssemblyReference.cache
+c:\users\建吾\documents\visual studio 2017\Projects\DictionarySearcher\DictionarySearcher\obj\Debug\DictionarySearcher.Form1.resources
+c:\users\建吾\documents\visual studio 2017\Projects\DictionarySearcher\DictionarySearcher\obj\Debug\DictionarySearcher.Properties.Resources.resources
+c:\users\建吾\documents\visual studio 2017\Projects\DictionarySearcher\DictionarySearcher\obj\Debug\DictionarySearcher.csproj.GenerateResource.Cache
+c:\users\建吾\documents\visual studio 2017\Projects\DictionarySearcher\DictionarySearcher\bin\Debug\DictionarySearcher.exe.config
+c:\users\建吾\documents\visual studio 2017\Projects\DictionarySearcher\DictionarySearcher\bin\Debug\DictionarySearcher.exe
+c:\users\建吾\documents\visual studio 2017\Projects\DictionarySearcher\DictionarySearcher\bin\Debug\DictionarySearcher.pdb
+c:\users\建吾\documents\visual studio 2017\Projects\DictionarySearcher\DictionarySearcher\obj\Debug\DictionarySearcher.exe
+c:\users\建吾\documents\visual studio 2017\Projects\DictionarySearcher\DictionarySearcher\obj\Debug\DictionarySearcher.pdb
+C:\Users\建吾\documents\visual studio 2017\Projects\DictionarySearcher\DictionarySearcher\obj\Debug\Interop.SHDocVw.dll
+C:\Users\建吾\documents\visual studio 2017\Projects\DictionarySearcher\DictionarySearcher\obj\Debug\DictionarySearcher.csproj.ResolveComReference.cache
+C:\Users\Owner\Dropbox\C#\DictionarySearcher\DictionarySearcher\bin\Debug\DictionarySearcher.exe.config
+C:\Users\Owner\Dropbox\C#\DictionarySearcher\DictionarySearcher\bin\Debug\DictionarySearcher.exe
+C:\Users\Owner\Dropbox\C#\DictionarySearcher\DictionarySearcher\bin\Debug\DictionarySearcher.pdb
+C:\Users\Owner\Dropbox\C#\DictionarySearcher\DictionarySearcher\obj\Debug\DictionarySearcher.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Dropbox\C#\DictionarySearcher\DictionarySearcher\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Owner\Dropbox\C#\DictionarySearcher\DictionarySearcher\obj\Debug\DictionarySearcher.csproj.ResolveComReference.cache
+C:\Users\Owner\Dropbox\C#\DictionarySearcher\DictionarySearcher\obj\Debug\DictionarySearcher.Form1.resources
+C:\Users\Owner\Dropbox\C#\DictionarySearcher\DictionarySearcher\obj\Debug\DictionarySearcher.Properties.Resources.resources
+C:\Users\Owner\Dropbox\C#\DictionarySearcher\DictionarySearcher\obj\Debug\DictionarySearcher.csproj.GenerateResource.Cache
+C:\Users\Owner\Dropbox\C#\DictionarySearcher\DictionarySearcher\obj\Debug\DictionarySearcher.exe
+C:\Users\Owner\Dropbox\C#\DictionarySearcher\DictionarySearcher\obj\Debug\DictionarySearcher.pdb
+C:\Users\建吾\Dropbox\C#\DictionarySearcher\DictionarySearcher\bin\Debug\DictionarySearcher.exe.config
+C:\Users\建吾\Dropbox\C#\DictionarySearcher\DictionarySearcher\bin\Debug\DictionarySearcher.exe
+C:\Users\建吾\Dropbox\C#\DictionarySearcher\DictionarySearcher\bin\Debug\DictionarySearcher.pdb
+C:\Users\建吾\Dropbox\C#\DictionarySearcher\DictionarySearcher\obj\Debug\Interop.SHDocVw.dll
+C:\Users\建吾\Dropbox\C#\DictionarySearcher\DictionarySearcher\obj\Debug\DictionarySearcher.csproj.ResolveComReference.cache
+C:\Users\建吾\Dropbox\C#\DictionarySearcher\DictionarySearcher\obj\Debug\DictionarySearcher.Form1.resources
+C:\Users\建吾\Dropbox\C#\DictionarySearcher\DictionarySearcher\obj\Debug\DictionarySearcher.Properties.Resources.resources
+C:\Users\建吾\Dropbox\C#\DictionarySearcher\DictionarySearcher\obj\Debug\DictionarySearcher.csproj.GenerateResource.Cache
+C:\Users\建吾\Dropbox\C#\DictionarySearcher\DictionarySearcher\obj\Debug\DictionarySearcher.exe
+C:\Users\建吾\Dropbox\C#\DictionarySearcher\DictionarySearcher\obj\Debug\DictionarySearcher.pdb
+C:\Users\建吾\Dropbox\C#\DictionarySearcher\DictionarySearcher\obj\Debug\DictionarySearcher.csprojResolveAssemblyReference.cache
